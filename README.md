@@ -1,5 +1,6 @@
 
 Hính ảnh Minh Họa 
+
 Bước 1 : nhập Giá trị đầu tiền (số)
 
 ![Image](https://cdn.glitch.com/a110ca1b-4ae9-4689-baf2-26d62324ca98%2FUntitled.png?v=1578558164786)	
