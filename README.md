@@ -1,4 +1,4 @@
-# kiemtrawindow1
+
 Hính ảnh Minh Họa 
 Bước 1 : nhập Giá trị đầu tiền (số)
 Bước 2 : nhập Giá trị thứ hai (số)
